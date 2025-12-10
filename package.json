@@ -1,5 +1,12 @@
 {
   "name": "dodo-e-commerce",
+  "version": "0.1.0",
+  // ADD THIS LINE:
+  "homepage": "https://shoibesakib-4d.github.io/DoDo-E-Commerce/", 
+  // ... rest of the file
+},
+{
+  "name": "dodo-e-commerce",
   "private": true,
   "version": "0.0.0",
   "type": "module",

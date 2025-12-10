@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter, Route, Routes } from 'react-router'
+import { Route, Routes } from 'react-router'
 import Rootlayouts from "../layouts/Rootlayouts";
 import Home from "../pages/Home/Home/Home";
 import Aboutus from "../pages/aboutus/Aboutus";

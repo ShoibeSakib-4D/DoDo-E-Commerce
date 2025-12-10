@@ -8,7 +8,7 @@ import './index.css'
 const root = document.getElementById("root");
 
 ReactDOM.createRoot(root).render(
-  <BrowserRouter>
+  <BrowserRouter basename="/DoDo-E-Commerce/">
     
 
        <Router></Router>
